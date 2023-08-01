@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "fitPoly"]
-	path = fitPoly
-	url = https://github.com/cran/fitPoly
 [submodule "PolyHaplotyper"]
 	path = PolyHaplotyper
 	url = https://github.com/cran/PolyHaplotyper
+[submodule "fitPoly"]
+	path = fitPoly
+	url = https://github.com/cran/fitPoly
