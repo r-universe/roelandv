@@ -5,6 +5,3 @@
 [submodule "PolyHaplotyper"]
 	path = PolyHaplotyper
 	url = https://github.com/cran/PolyHaplotyper
-[submodule "fitPoly"]
-	path = fitPoly
-	url = https://github.com/cran/fitPoly
